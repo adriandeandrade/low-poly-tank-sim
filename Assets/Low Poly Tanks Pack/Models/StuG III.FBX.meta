@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: d96ad9a236a60cd419bd3cfcb87e8b41
+timeCreated: 1513413192
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: StuG III_base
+    100004: StuG III_caterpillar_left
+    100006: StuG III_caterpillar_right
+    100008: StuG III_muzzle
+    100010: StuG III_wheel_left1
+    100012: StuG III_wheel_left10
+    100014: StuG III_wheel_left11
+    100016: StuG III_wheel_left2
+    100018: StuG III_wheel_left3
+    100020: StuG III_wheel_left4
+    100022: StuG III_wheel_left5
+    100024: StuG III_wheel_left6
+    100026: StuG III_wheel_left7
+    100028: StuG III_wheel_left8
+    100030: StuG III_wheel_left9
+    100032: StuG III_wheel_right1
+    100034: StuG III_wheel_right10
+    100036: StuG III_wheel_right11
+    100038: StuG III_wheel_right2
+    100040: StuG III_wheel_right3
+    100042: StuG III_wheel_right4
+    100044: StuG III_wheel_right5
+    100046: StuG III_wheel_right6
+    100048: StuG III_wheel_right7
+    100050: StuG III_wheel_right8
+    100052: StuG III_wheel_right9
+    400000: //RootNode
+    400002: StuG III_base
+    400004: StuG III_caterpillar_left
+    400006: StuG III_caterpillar_right
+    400008: StuG III_muzzle
+    400010: StuG III_wheel_left1
+    400012: StuG III_wheel_left10
+    400014: StuG III_wheel_left11
+    400016: StuG III_wheel_left2
+    400018: StuG III_wheel_left3
+    400020: StuG III_wheel_left4
+    400022: StuG III_wheel_left5
+    400024: StuG III_wheel_left6
+    400026: StuG III_wheel_left7
+    400028: StuG III_wheel_left8
+    400030: StuG III_wheel_left9
+    400032: StuG III_wheel_right1
+    400034: StuG III_wheel_right10
+    400036: StuG III_wheel_right11
+    400038: StuG III_wheel_right2
+    400040: StuG III_wheel_right3
+    400042: StuG III_wheel_right4
+    400044: StuG III_wheel_right5
+    400046: StuG III_wheel_right6
+    400048: StuG III_wheel_right7
+    400050: StuG III_wheel_right8
+    400052: StuG III_wheel_right9
+    2300000: StuG III_base
+    2300002: StuG III_caterpillar_left
+    2300004: StuG III_caterpillar_right
+    2300006: StuG III_muzzle
+    2300008: StuG III_wheel_left1
+    2300010: StuG III_wheel_left10
+    2300012: StuG III_wheel_left11
+    2300014: StuG III_wheel_left2
+    2300016: StuG III_wheel_left3
+    2300018: StuG III_wheel_left4
+    2300020: StuG III_wheel_left5
+    2300022: StuG III_wheel_left6
+    2300024: StuG III_wheel_left7
+    2300026: StuG III_wheel_left8
+    2300028: StuG III_wheel_left9
+    2300030: StuG III_wheel_right1
+    2300032: StuG III_wheel_right10
+    2300034: StuG III_wheel_right11
+    2300036: StuG III_wheel_right2
+    2300038: StuG III_wheel_right3
+    2300040: StuG III_wheel_right4
+    2300042: StuG III_wheel_right5
+    2300044: StuG III_wheel_right6
+    2300046: StuG III_wheel_right7
+    2300048: StuG III_wheel_right8
+    2300050: StuG III_wheel_right9
+    3300000: StuG III_base
+    3300002: StuG III_caterpillar_left
+    3300004: StuG III_caterpillar_right
+    3300006: StuG III_muzzle
+    3300008: StuG III_wheel_left1
+    3300010: StuG III_wheel_left10
+    3300012: StuG III_wheel_left11
+    3300014: StuG III_wheel_left2
+    3300016: StuG III_wheel_left3
+    3300018: StuG III_wheel_left4
+    3300020: StuG III_wheel_left5
+    3300022: StuG III_wheel_left6
+    3300024: StuG III_wheel_left7
+    3300026: StuG III_wheel_left8
+    3300028: StuG III_wheel_left9
+    3300030: StuG III_wheel_right1
+    3300032: StuG III_wheel_right10
+    3300034: StuG III_wheel_right11
+    3300036: StuG III_wheel_right2
+    3300038: StuG III_wheel_right3
+    3300040: StuG III_wheel_right4
+    3300042: StuG III_wheel_right5
+    3300044: StuG III_wheel_right6
+    3300046: StuG III_wheel_right7
+    3300048: StuG III_wheel_right8
+    3300050: StuG III_wheel_right9
+    4300000: StuG III_base
+    4300002: StuG III_caterpillar_left
+    4300004: StuG III_caterpillar_right
+    4300006: StuG III_muzzle
+    4300008: StuG III_wheel_right1
+    4300010: StuG III_wheel_right2
+    4300012: StuG III_wheel_right3
+    4300014: StuG III_wheel_right4
+    4300016: StuG III_wheel_right5
+    4300018: StuG III_wheel_right6
+    4300020: StuG III_wheel_right7
+    4300022: StuG III_wheel_right8
+    4300024: StuG III_wheel_right11
+    4300026: StuG III_wheel_right10
+    4300028: StuG III_wheel_right9
+    4300030: StuG III_wheel_left1
+    4300032: StuG III_wheel_left2
+    4300034: StuG III_wheel_left3
+    4300036: StuG III_wheel_left4
+    4300038: StuG III_wheel_left5
+    4300040: StuG III_wheel_left6
+    4300042: StuG III_wheel_left7
+    4300044: StuG III_wheel_left8
+    4300046: StuG III_wheel_left10
+    4300048: StuG III_wheel_left9
+    4300050: StuG III_wheel_left11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .899999976
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

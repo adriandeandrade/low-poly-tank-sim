@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 21117b7cae4546d44b8e88cc647a7777
+timeCreated: 1513413190
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KV-1_base
+    100004: KV-1_caterpillar_left
+    100006: KV-1_caterpillar_right
+    100008: KV-1_muzzle
+    100010: KV-1_tower
+    100012: KV-1_wheel_left_1
+    100014: KV-1_wheel_left_10
+    100016: KV-1_wheel_left_11
+    100018: KV-1_wheel_left_2
+    100020: KV-1_wheel_left_3
+    100022: KV-1_wheel_left_4
+    100024: KV-1_wheel_left_5
+    100026: KV-1_wheel_left_6
+    100028: KV-1_wheel_left_7
+    100030: KV-1_wheel_left_8
+    100032: KV-1_wheel_left_9
+    100034: KV-1_wheel_right_1
+    100036: KV-1_wheel_right_10
+    100038: KV-1_wheel_right_11
+    100040: KV-1_wheel_right_2
+    100042: KV-1_wheel_right_3
+    100044: KV-1_wheel_right_4
+    100046: KV-1_wheel_right_5
+    100048: KV-1_wheel_right_6
+    100050: KV-1_wheel_right_7
+    100052: KV-1_wheel_right_8
+    100054: KV-1_wheel_right_9
+    400000: //RootNode
+    400002: KV-1_base
+    400004: KV-1_caterpillar_left
+    400006: KV-1_caterpillar_right
+    400008: KV-1_muzzle
+    400010: KV-1_tower
+    400012: KV-1_wheel_left_1
+    400014: KV-1_wheel_left_10
+    400016: KV-1_wheel_left_11
+    400018: KV-1_wheel_left_2
+    400020: KV-1_wheel_left_3
+    400022: KV-1_wheel_left_4
+    400024: KV-1_wheel_left_5
+    400026: KV-1_wheel_left_6
+    400028: KV-1_wheel_left_7
+    400030: KV-1_wheel_left_8
+    400032: KV-1_wheel_left_9
+    400034: KV-1_wheel_right_1
+    400036: KV-1_wheel_right_10
+    400038: KV-1_wheel_right_11
+    400040: KV-1_wheel_right_2
+    400042: KV-1_wheel_right_3
+    400044: KV-1_wheel_right_4
+    400046: KV-1_wheel_right_5
+    400048: KV-1_wheel_right_6
+    400050: KV-1_wheel_right_7
+    400052: KV-1_wheel_right_8
+    400054: KV-1_wheel_right_9
+    2300000: KV-1_base
+    2300002: KV-1_caterpillar_left
+    2300004: KV-1_caterpillar_right
+    2300006: KV-1_muzzle
+    2300008: KV-1_tower
+    2300010: KV-1_wheel_left_1
+    2300012: KV-1_wheel_left_10
+    2300014: KV-1_wheel_left_11
+    2300016: KV-1_wheel_left_2
+    2300018: KV-1_wheel_left_3
+    2300020: KV-1_wheel_left_4
+    2300022: KV-1_wheel_left_5
+    2300024: KV-1_wheel_left_6
+    2300026: KV-1_wheel_left_7
+    2300028: KV-1_wheel_left_8
+    2300030: KV-1_wheel_left_9
+    2300032: KV-1_wheel_right_1
+    2300034: KV-1_wheel_right_10
+    2300036: KV-1_wheel_right_11
+    2300038: KV-1_wheel_right_2
+    2300040: KV-1_wheel_right_3
+    2300042: KV-1_wheel_right_4
+    2300044: KV-1_wheel_right_5
+    2300046: KV-1_wheel_right_6
+    2300048: KV-1_wheel_right_7
+    2300050: KV-1_wheel_right_8
+    2300052: KV-1_wheel_right_9
+    3300000: KV-1_base
+    3300002: KV-1_caterpillar_left
+    3300004: KV-1_caterpillar_right
+    3300006: KV-1_muzzle
+    3300008: KV-1_tower
+    3300010: KV-1_wheel_left_1
+    3300012: KV-1_wheel_left_10
+    3300014: KV-1_wheel_left_11
+    3300016: KV-1_wheel_left_2
+    3300018: KV-1_wheel_left_3
+    3300020: KV-1_wheel_left_4
+    3300022: KV-1_wheel_left_5
+    3300024: KV-1_wheel_left_6
+    3300026: KV-1_wheel_left_7
+    3300028: KV-1_wheel_left_8
+    3300030: KV-1_wheel_left_9
+    3300032: KV-1_wheel_right_1
+    3300034: KV-1_wheel_right_10
+    3300036: KV-1_wheel_right_11
+    3300038: KV-1_wheel_right_2
+    3300040: KV-1_wheel_right_3
+    3300042: KV-1_wheel_right_4
+    3300044: KV-1_wheel_right_5
+    3300046: KV-1_wheel_right_6
+    3300048: KV-1_wheel_right_7
+    3300050: KV-1_wheel_right_8
+    3300052: KV-1_wheel_right_9
+    4300000: KV-1_base
+    4300002: KV-1_muzzle
+    4300004: KV-1_caterpillar_right
+    4300006: KV-1_caterpillar_left
+    4300008: KV-1_wheel_right_1
+    4300010: KV-1_wheel_right_2
+    4300012: KV-1_wheel_right_3
+    4300014: KV-1_wheel_right_4
+    4300016: KV-1_wheel_right_5
+    4300018: KV-1_wheel_right_6
+    4300020: KV-1_wheel_right_7
+    4300022: KV-1_wheel_right_8
+    4300024: KV-1_wheel_right_11
+    4300026: KV-1_wheel_right_10
+    4300028: KV-1_wheel_right_9
+    4300030: KV-1_wheel_left_1
+    4300032: KV-1_wheel_left_2
+    4300034: KV-1_wheel_left_3
+    4300036: KV-1_wheel_left_4
+    4300038: KV-1_wheel_left_5
+    4300040: KV-1_wheel_left_6
+    4300042: KV-1_wheel_left_7
+    4300044: KV-1_wheel_left_8
+    4300046: KV-1_wheel_left_11
+    4300048: KV-1_wheel_left_10
+    4300050: KV-1_wheel_left_9
+    4300052: KV-1_tower
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

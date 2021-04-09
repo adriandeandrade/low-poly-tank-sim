@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 637105bf15e83a6478690dd8b8815981
+timeCreated: 1513413191
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u0421\u0423-122_base"
+    100004: "\u0421\u0423-122_caterpillar_left"
+    100006: "\u0421\u0423-122_caterpillar_right"
+    100008: "\u0421\u0423-122_muzzle"
+    100010: "\u0421\u0423-122_wheel_left_1"
+    100012: "\u0421\u0423-122_wheel_left_2"
+    100014: "\u0421\u0423-122_wheel_left_3"
+    100016: "\u0421\u0423-122_wheel_left_4"
+    100018: "\u0421\u0423-122_wheel_left_5"
+    100020: "\u0421\u0423-122_wheel_left_6"
+    100022: "\u0421\u0423-122_wheel_left_7"
+    100024: "\u0421\u0423-122_wheel_right_1"
+    100026: "\u0421\u0423-122_wheel_right_2"
+    100028: "\u0421\u0423-122_wheel_right_3"
+    100030: "\u0421\u0423-122_wheel_right_4"
+    100032: "\u0421\u0423-122_wheel_right_5"
+    100034: "\u0421\u0423-122_wheel_right_6"
+    100036: "\u0421\u0423-122_wheel_right_7"
+    400000: //RootNode
+    400002: "\u0421\u0423-122_base"
+    400004: "\u0421\u0423-122_caterpillar_left"
+    400006: "\u0421\u0423-122_caterpillar_right"
+    400008: "\u0421\u0423-122_muzzle"
+    400010: "\u0421\u0423-122_wheel_left_1"
+    400012: "\u0421\u0423-122_wheel_left_2"
+    400014: "\u0421\u0423-122_wheel_left_3"
+    400016: "\u0421\u0423-122_wheel_left_4"
+    400018: "\u0421\u0423-122_wheel_left_5"
+    400020: "\u0421\u0423-122_wheel_left_6"
+    400022: "\u0421\u0423-122_wheel_left_7"
+    400024: "\u0421\u0423-122_wheel_right_1"
+    400026: "\u0421\u0423-122_wheel_right_2"
+    400028: "\u0421\u0423-122_wheel_right_3"
+    400030: "\u0421\u0423-122_wheel_right_4"
+    400032: "\u0421\u0423-122_wheel_right_5"
+    400034: "\u0421\u0423-122_wheel_right_6"
+    400036: "\u0421\u0423-122_wheel_right_7"
+    2300000: "\u0421\u0423-122_base"
+    2300002: "\u0421\u0423-122_caterpillar_left"
+    2300004: "\u0421\u0423-122_caterpillar_right"
+    2300006: "\u0421\u0423-122_muzzle"
+    2300008: "\u0421\u0423-122_wheel_left_1"
+    2300010: "\u0421\u0423-122_wheel_left_2"
+    2300012: "\u0421\u0423-122_wheel_left_3"
+    2300014: "\u0421\u0423-122_wheel_left_4"
+    2300016: "\u0421\u0423-122_wheel_left_5"
+    2300018: "\u0421\u0423-122_wheel_left_6"
+    2300020: "\u0421\u0423-122_wheel_left_7"
+    2300022: "\u0421\u0423-122_wheel_right_1"
+    2300024: "\u0421\u0423-122_wheel_right_2"
+    2300026: "\u0421\u0423-122_wheel_right_3"
+    2300028: "\u0421\u0423-122_wheel_right_4"
+    2300030: "\u0421\u0423-122_wheel_right_5"
+    2300032: "\u0421\u0423-122_wheel_right_6"
+    2300034: "\u0421\u0423-122_wheel_right_7"
+    3300000: "\u0421\u0423-122_base"
+    3300002: "\u0421\u0423-122_caterpillar_left"
+    3300004: "\u0421\u0423-122_caterpillar_right"
+    3300006: "\u0421\u0423-122_muzzle"
+    3300008: "\u0421\u0423-122_wheel_left_1"
+    3300010: "\u0421\u0423-122_wheel_left_2"
+    3300012: "\u0421\u0423-122_wheel_left_3"
+    3300014: "\u0421\u0423-122_wheel_left_4"
+    3300016: "\u0421\u0423-122_wheel_left_5"
+    3300018: "\u0421\u0423-122_wheel_left_6"
+    3300020: "\u0421\u0423-122_wheel_left_7"
+    3300022: "\u0421\u0423-122_wheel_right_1"
+    3300024: "\u0421\u0423-122_wheel_right_2"
+    3300026: "\u0421\u0423-122_wheel_right_3"
+    3300028: "\u0421\u0423-122_wheel_right_4"
+    3300030: "\u0421\u0423-122_wheel_right_5"
+    3300032: "\u0421\u0423-122_wheel_right_6"
+    3300034: "\u0421\u0423-122_wheel_right_7"
+    4300000: "\u0421\u0423-122_base"
+    4300002: "\u0421\u0423-122_caterpillar_left"
+    4300004: "\u0421\u0423-122_muzzle"
+    4300006: "\u0421\u0423-122_wheel_right_1"
+    4300008: "\u0421\u0423-122_wheel_right_2"
+    4300010: "\u0421\u0423-122_wheel_right_3"
+    4300012: "\u0421\u0423-122_wheel_right_4"
+    4300014: "\u0421\u0423-122_wheel_right_5"
+    4300016: "\u0421\u0423-122_wheel_right_6"
+    4300018: "\u0421\u0423-122_wheel_right_7"
+    4300020: "\u0421\u0423-122_wheel_left_1"
+    4300022: "\u0421\u0423-122_wheel_left_2"
+    4300024: "\u0421\u0423-122_wheel_left_3"
+    4300026: "\u0421\u0423-122_wheel_left_4"
+    4300028: "\u0421\u0423-122_wheel_left_5"
+    4300030: "\u0421\u0423-122_wheel_left_6"
+    4300032: "\u0421\u0423-122_wheel_left_7"
+    4300034: "\u0421\u0423-122_caterpillar_right"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

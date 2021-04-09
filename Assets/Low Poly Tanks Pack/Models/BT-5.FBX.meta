@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 9979900bc3c58304182b4e798d1da574
+timeCreated: 1513413191
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BT-5_Base
+    100004: BT-5_Tower
+    100006: BT-5_Trunk
+    100008: Caterpillar_Left
+    100010: Caterpillar_Right
+    100012: Wheel1
+    100014: Wheel10
+    100016: Wheel11
+    100018: Wheel12
+    100020: Wheel2
+    100022: Wheel3
+    100024: Wheel4
+    100026: Wheel5
+    100028: Wheel6
+    100030: Wheel7
+    100032: Wheel8
+    100034: Wheel9
+    400000: //RootNode
+    400002: BT-5_Base
+    400004: BT-5_Tower
+    400006: BT-5_Trunk
+    400008: Caterpillar_Left
+    400010: Caterpillar_Right
+    400012: Wheel1
+    400014: Wheel10
+    400016: Wheel11
+    400018: Wheel12
+    400020: Wheel2
+    400022: Wheel3
+    400024: Wheel4
+    400026: Wheel5
+    400028: Wheel6
+    400030: Wheel7
+    400032: Wheel8
+    400034: Wheel9
+    2300000: BT-5_Base
+    2300002: BT-5_Tower
+    2300004: BT-5_Trunk
+    2300006: Caterpillar_Left
+    2300008: Caterpillar_Right
+    2300010: Wheel1
+    2300012: Wheel10
+    2300014: Wheel11
+    2300016: Wheel12
+    2300018: Wheel2
+    2300020: Wheel3
+    2300022: Wheel4
+    2300024: Wheel5
+    2300026: Wheel6
+    2300028: Wheel7
+    2300030: Wheel8
+    2300032: Wheel9
+    3300000: BT-5_Base
+    3300002: BT-5_Tower
+    3300004: BT-5_Trunk
+    3300006: Caterpillar_Left
+    3300008: Caterpillar_Right
+    3300010: Wheel1
+    3300012: Wheel10
+    3300014: Wheel11
+    3300016: Wheel12
+    3300018: Wheel2
+    3300020: Wheel3
+    3300022: Wheel4
+    3300024: Wheel5
+    3300026: Wheel6
+    3300028: Wheel7
+    3300030: Wheel8
+    3300032: Wheel9
+    4300000: BT-5_Tower
+    4300002: BT-5_Base
+    4300004: Wheel6
+    4300006: Wheel5
+    4300008: Wheel4
+    4300010: Wheel3
+    4300012: Wheel2
+    4300014: Wheel1
+    4300016: Wheel7
+    4300018: Wheel8
+    4300020: Wheel9
+    4300022: Wheel10
+    4300024: Wheel11
+    4300026: Wheel12
+    4300028: Caterpillar_Left
+    4300030: Caterpillar_Right
+    4300032: BT-5_Trunk
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

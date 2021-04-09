@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 858c2377dae1c204fb06c3f305436611
+timeCreated: 1513413191
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Panther
+    100004: Panther_caterpillar_left
+    100006: Panther_caterpillar_right
+    100008: Panther_muzzle
+    100010: Panther_tower
+    100012: Panther_wheel
+    100014: Panther_wheel_left_1
+    100016: Panther_wheel_left_10
+    100018: Panther_wheel_left_2
+    100020: Panther_wheel_left_3
+    100022: Panther_wheel_left_4
+    100024: Panther_wheel_left_5
+    100026: Panther_wheel_left_6
+    100028: Panther_wheel_left_7
+    100030: Panther_wheel_left_8
+    100032: Panther_wheel_left_9
+    100034: Panther_wheel_right_1
+    100036: Panther_wheel_right_10
+    100038: Panther_wheel_right_2
+    100040: Panther_wheel_right_3
+    100042: Panther_wheel_right_4
+    100044: Panther_wheel_right_5
+    100046: Panther_wheel_right_6
+    100048: Panther_wheel_right_7
+    100050: Panther_wheel_right_8
+    100052: Panther_wheel_right_9
+    400000: //RootNode
+    400002: Panther
+    400004: Panther_caterpillar_left
+    400006: Panther_caterpillar_right
+    400008: Panther_muzzle
+    400010: Panther_tower
+    400012: Panther_wheel
+    400014: Panther_wheel_left_1
+    400016: Panther_wheel_left_10
+    400018: Panther_wheel_left_2
+    400020: Panther_wheel_left_3
+    400022: Panther_wheel_left_4
+    400024: Panther_wheel_left_5
+    400026: Panther_wheel_left_6
+    400028: Panther_wheel_left_7
+    400030: Panther_wheel_left_8
+    400032: Panther_wheel_left_9
+    400034: Panther_wheel_right_1
+    400036: Panther_wheel_right_10
+    400038: Panther_wheel_right_2
+    400040: Panther_wheel_right_3
+    400042: Panther_wheel_right_4
+    400044: Panther_wheel_right_5
+    400046: Panther_wheel_right_6
+    400048: Panther_wheel_right_7
+    400050: Panther_wheel_right_8
+    400052: Panther_wheel_right_9
+    2300000: Panther
+    2300002: Panther_caterpillar_left
+    2300004: Panther_caterpillar_right
+    2300006: Panther_muzzle
+    2300008: Panther_tower
+    2300010: Panther_wheel_left_1
+    2300012: Panther_wheel_left_10
+    2300014: Panther_wheel_left_2
+    2300016: Panther_wheel_left_3
+    2300018: Panther_wheel_left_4
+    2300020: Panther_wheel_left_5
+    2300022: Panther_wheel_left_6
+    2300024: Panther_wheel_left_7
+    2300026: Panther_wheel_left_8
+    2300028: Panther_wheel_left_9
+    2300030: Panther_wheel_right_1
+    2300032: Panther_wheel_right_10
+    2300034: Panther_wheel_right_2
+    2300036: Panther_wheel_right_3
+    2300038: Panther_wheel_right_4
+    2300040: Panther_wheel_right_5
+    2300042: Panther_wheel_right_6
+    2300044: Panther_wheel_right_7
+    2300046: Panther_wheel_right_8
+    2300048: Panther_wheel_right_9
+    3300000: Panther
+    3300002: Panther_caterpillar_left
+    3300004: Panther_caterpillar_right
+    3300006: Panther_muzzle
+    3300008: Panther_tower
+    3300010: Panther_wheel_left_1
+    3300012: Panther_wheel_left_10
+    3300014: Panther_wheel_left_2
+    3300016: Panther_wheel_left_3
+    3300018: Panther_wheel_left_4
+    3300020: Panther_wheel_left_5
+    3300022: Panther_wheel_left_6
+    3300024: Panther_wheel_left_7
+    3300026: Panther_wheel_left_8
+    3300028: Panther_wheel_left_9
+    3300030: Panther_wheel_right_1
+    3300032: Panther_wheel_right_10
+    3300034: Panther_wheel_right_2
+    3300036: Panther_wheel_right_3
+    3300038: Panther_wheel_right_4
+    3300040: Panther_wheel_right_5
+    3300042: Panther_wheel_right_6
+    3300044: Panther_wheel_right_7
+    3300046: Panther_wheel_right_8
+    3300048: Panther_wheel_right_9
+    4300000: Panther
+    4300002: Panther_tower
+    4300004: Panther_muzzle
+    4300006: Panther_caterpillar_right
+    4300008: Panther_caterpillar_left
+    4300010: Panther_wheel_left_1
+    4300012: Panther_wheel_left_2
+    4300014: Panther_wheel_left_3
+    4300016: Panther_wheel_left_4
+    4300018: Panther_wheel_left_5
+    4300020: Panther_wheel_left_6
+    4300022: Panther_wheel_left_7
+    4300024: Panther_wheel_left_8
+    4300026: Panther_wheel_left_9
+    4300028: Panther_wheel_left_10
+    4300030: Panther_wheel_right_1
+    4300032: Panther_wheel_right_2
+    4300034: Panther_wheel_right_3
+    4300036: Panther_wheel_right_4
+    4300038: Panther_wheel_right_5
+    4300040: Panther_wheel_right_6
+    4300042: Panther_wheel_right_7
+    4300044: Panther_wheel_right_8
+    4300046: Panther_wheel_right_9
+    4300048: Panther_wheel_right_10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

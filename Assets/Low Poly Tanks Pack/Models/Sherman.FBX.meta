@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 57e80cc29a8bcb348a5702a562ecd07e
+timeCreated: 1513413191
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sherman_base
+    100004: Sherman_caterpillar_left
+    100006: Sherman_caterpillar_right
+    100008: Sherman_muzzle
+    100010: Sherman_tower
+    100012: Sherman_wheel_left_1
+    100014: Sherman_wheel_left_2
+    100016: Sherman_wheel_left_3
+    100018: Sherman_wheel_left_4
+    100020: Sherman_wheel_left_5
+    100022: Sherman_wheel_left_6
+    100024: Sherman_wheel_left_7
+    100026: Sherman_wheel_left_8
+    100028: Sherman_wheel_right_1
+    100030: Sherman_wheel_right_2
+    100032: Sherman_wheel_right_3
+    100034: Sherman_wheel_right_4
+    100036: Sherman_wheel_right_5
+    100038: Sherman_wheel_right_6
+    100040: Sherman_wheel_right_7
+    100042: Sherman_wheel_right_8
+    400000: //RootNode
+    400002: Sherman_base
+    400004: Sherman_caterpillar_left
+    400006: Sherman_caterpillar_right
+    400008: Sherman_muzzle
+    400010: Sherman_tower
+    400012: Sherman_wheel_left_1
+    400014: Sherman_wheel_left_2
+    400016: Sherman_wheel_left_3
+    400018: Sherman_wheel_left_4
+    400020: Sherman_wheel_left_5
+    400022: Sherman_wheel_left_6
+    400024: Sherman_wheel_left_7
+    400026: Sherman_wheel_left_8
+    400028: Sherman_wheel_right_1
+    400030: Sherman_wheel_right_2
+    400032: Sherman_wheel_right_3
+    400034: Sherman_wheel_right_4
+    400036: Sherman_wheel_right_5
+    400038: Sherman_wheel_right_6
+    400040: Sherman_wheel_right_7
+    400042: Sherman_wheel_right_8
+    2300000: Sherman_base
+    2300002: Sherman_caterpillar_left
+    2300004: Sherman_caterpillar_right
+    2300006: Sherman_muzzle
+    2300008: Sherman_tower
+    2300010: Sherman_wheel_left_1
+    2300012: Sherman_wheel_left_2
+    2300014: Sherman_wheel_left_3
+    2300016: Sherman_wheel_left_4
+    2300018: Sherman_wheel_left_5
+    2300020: Sherman_wheel_left_6
+    2300022: Sherman_wheel_left_7
+    2300024: Sherman_wheel_left_8
+    2300026: Sherman_wheel_right_1
+    2300028: Sherman_wheel_right_2
+    2300030: Sherman_wheel_right_3
+    2300032: Sherman_wheel_right_4
+    2300034: Sherman_wheel_right_5
+    2300036: Sherman_wheel_right_6
+    2300038: Sherman_wheel_right_7
+    2300040: Sherman_wheel_right_8
+    3300000: Sherman_base
+    3300002: Sherman_caterpillar_left
+    3300004: Sherman_caterpillar_right
+    3300006: Sherman_muzzle
+    3300008: Sherman_tower
+    3300010: Sherman_wheel_left_1
+    3300012: Sherman_wheel_left_2
+    3300014: Sherman_wheel_left_3
+    3300016: Sherman_wheel_left_4
+    3300018: Sherman_wheel_left_5
+    3300020: Sherman_wheel_left_6
+    3300022: Sherman_wheel_left_7
+    3300024: Sherman_wheel_left_8
+    3300026: Sherman_wheel_right_1
+    3300028: Sherman_wheel_right_2
+    3300030: Sherman_wheel_right_3
+    3300032: Sherman_wheel_right_4
+    3300034: Sherman_wheel_right_5
+    3300036: Sherman_wheel_right_6
+    3300038: Sherman_wheel_right_7
+    3300040: Sherman_wheel_right_8
+    4300000: Sherman_caterpillar_left
+    4300002: Sherman_muzzle
+    4300004: Sherman_wheel_left_1
+    4300006: Sherman_wheel_left_2
+    4300008: Sherman_wheel_left_3
+    4300010: Sherman_wheel_left_4
+    4300012: Sherman_wheel_left_5
+    4300014: Sherman_wheel_left_6
+    4300016: Sherman_wheel_left_7
+    4300018: Sherman_wheel_left_8
+    4300020: Sherman_wheel_right_8
+    4300022: Sherman_wheel_right_7
+    4300024: Sherman_wheel_right_6
+    4300026: Sherman_wheel_right_5
+    4300028: Sherman_wheel_right_4
+    4300030: Sherman_wheel_right_3
+    4300032: Sherman_wheel_right_2
+    4300034: Sherman_wheel_right_1
+    4300036: Sherman_base
+    4300038: Sherman_caterpillar_right
+    4300040: Sherman_tower
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.10000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

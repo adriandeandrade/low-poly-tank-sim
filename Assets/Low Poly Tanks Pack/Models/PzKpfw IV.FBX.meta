@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 107f696825356ab4da58c8b54ad39f77
+timeCreated: 1513413190
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PzKpfw IV_base
+    100004: PzKpfw IV_caterpillar_left
+    100006: PzKpfw IV_caterpillar_right
+    100008: PzKpfw IV_muzzle
+    100010: PzKpfw IV_tower
+    100012: PzKpfw IV_wheel_left1
+    100014: PzKpfw IV_wheel_left10
+    100016: PzKpfw IV_wheel_left11
+    100018: PzKpfw IV_wheel_left12
+    100020: PzKpfw IV_wheel_left13
+    100022: PzKpfw IV_wheel_left14
+    100024: PzKpfw IV_wheel_left2
+    100026: PzKpfw IV_wheel_left3
+    100028: PzKpfw IV_wheel_left4
+    100030: PzKpfw IV_wheel_left5
+    100032: PzKpfw IV_wheel_left6
+    100034: PzKpfw IV_wheel_left7
+    100036: PzKpfw IV_wheel_left8
+    100038: PzKpfw IV_wheel_left9
+    100040: PzKpfw IV_wheel_right1
+    100042: PzKpfw IV_wheel_right10
+    100044: PzKpfw IV_wheel_right11
+    100046: PzKpfw IV_wheel_right12
+    100048: PzKpfw IV_wheel_right13
+    100050: PzKpfw IV_wheel_right14
+    100052: PzKpfw IV_wheel_right2
+    100054: PzKpfw IV_wheel_right3
+    100056: PzKpfw IV_wheel_right4
+    100058: PzKpfw IV_wheel_right5
+    100060: PzKpfw IV_wheel_right6
+    100062: PzKpfw IV_wheel_right7
+    100064: PzKpfw IV_wheel_right8
+    100066: PzKpfw IV_wheel_right9
+    400000: //RootNode
+    400002: PzKpfw IV_base
+    400004: PzKpfw IV_caterpillar_left
+    400006: PzKpfw IV_caterpillar_right
+    400008: PzKpfw IV_muzzle
+    400010: PzKpfw IV_tower
+    400012: PzKpfw IV_wheel_left1
+    400014: PzKpfw IV_wheel_left10
+    400016: PzKpfw IV_wheel_left11
+    400018: PzKpfw IV_wheel_left12
+    400020: PzKpfw IV_wheel_left13
+    400022: PzKpfw IV_wheel_left14
+    400024: PzKpfw IV_wheel_left2
+    400026: PzKpfw IV_wheel_left3
+    400028: PzKpfw IV_wheel_left4
+    400030: PzKpfw IV_wheel_left5
+    400032: PzKpfw IV_wheel_left6
+    400034: PzKpfw IV_wheel_left7
+    400036: PzKpfw IV_wheel_left8
+    400038: PzKpfw IV_wheel_left9
+    400040: PzKpfw IV_wheel_right1
+    400042: PzKpfw IV_wheel_right10
+    400044: PzKpfw IV_wheel_right11
+    400046: PzKpfw IV_wheel_right12
+    400048: PzKpfw IV_wheel_right13
+    400050: PzKpfw IV_wheel_right14
+    400052: PzKpfw IV_wheel_right2
+    400054: PzKpfw IV_wheel_right3
+    400056: PzKpfw IV_wheel_right4
+    400058: PzKpfw IV_wheel_right5
+    400060: PzKpfw IV_wheel_right6
+    400062: PzKpfw IV_wheel_right7
+    400064: PzKpfw IV_wheel_right8
+    400066: PzKpfw IV_wheel_right9
+    2300000: PzKpfw IV_base
+    2300002: PzKpfw IV_caterpillar_left
+    2300004: PzKpfw IV_caterpillar_right
+    2300006: PzKpfw IV_muzzle
+    2300008: PzKpfw IV_tower
+    2300010: PzKpfw IV_wheel_left1
+    2300012: PzKpfw IV_wheel_left10
+    2300014: PzKpfw IV_wheel_left11
+    2300016: PzKpfw IV_wheel_left12
+    2300018: PzKpfw IV_wheel_left13
+    2300020: PzKpfw IV_wheel_left14
+    2300022: PzKpfw IV_wheel_left2
+    2300024: PzKpfw IV_wheel_left3
+    2300026: PzKpfw IV_wheel_left4
+    2300028: PzKpfw IV_wheel_left5
+    2300030: PzKpfw IV_wheel_left6
+    2300032: PzKpfw IV_wheel_left7
+    2300034: PzKpfw IV_wheel_left8
+    2300036: PzKpfw IV_wheel_left9
+    2300038: PzKpfw IV_wheel_right1
+    2300040: PzKpfw IV_wheel_right10
+    2300042: PzKpfw IV_wheel_right11
+    2300044: PzKpfw IV_wheel_right12
+    2300046: PzKpfw IV_wheel_right13
+    2300048: PzKpfw IV_wheel_right14
+    2300050: PzKpfw IV_wheel_right2
+    2300052: PzKpfw IV_wheel_right3
+    2300054: PzKpfw IV_wheel_right4
+    2300056: PzKpfw IV_wheel_right5
+    2300058: PzKpfw IV_wheel_right6
+    2300060: PzKpfw IV_wheel_right7
+    2300062: PzKpfw IV_wheel_right8
+    2300064: PzKpfw IV_wheel_right9
+    3300000: PzKpfw IV_base
+    3300002: PzKpfw IV_caterpillar_left
+    3300004: PzKpfw IV_caterpillar_right
+    3300006: PzKpfw IV_muzzle
+    3300008: PzKpfw IV_tower
+    3300010: PzKpfw IV_wheel_left1
+    3300012: PzKpfw IV_wheel_left10
+    3300014: PzKpfw IV_wheel_left11
+    3300016: PzKpfw IV_wheel_left12
+    3300018: PzKpfw IV_wheel_left13
+    3300020: PzKpfw IV_wheel_left14
+    3300022: PzKpfw IV_wheel_left2
+    3300024: PzKpfw IV_wheel_left3
+    3300026: PzKpfw IV_wheel_left4
+    3300028: PzKpfw IV_wheel_left5
+    3300030: PzKpfw IV_wheel_left6
+    3300032: PzKpfw IV_wheel_left7
+    3300034: PzKpfw IV_wheel_left8
+    3300036: PzKpfw IV_wheel_left9
+    3300038: PzKpfw IV_wheel_right1
+    3300040: PzKpfw IV_wheel_right10
+    3300042: PzKpfw IV_wheel_right11
+    3300044: PzKpfw IV_wheel_right12
+    3300046: PzKpfw IV_wheel_right13
+    3300048: PzKpfw IV_wheel_right14
+    3300050: PzKpfw IV_wheel_right2
+    3300052: PzKpfw IV_wheel_right3
+    3300054: PzKpfw IV_wheel_right4
+    3300056: PzKpfw IV_wheel_right5
+    3300058: PzKpfw IV_wheel_right6
+    3300060: PzKpfw IV_wheel_right7
+    3300062: PzKpfw IV_wheel_right8
+    3300064: PzKpfw IV_wheel_right9
+    4300000: PzKpfw IV_base
+    4300002: PzKpfw IV_muzzle
+    4300004: PzKpfw IV_caterpillar_right
+    4300006: PzKpfw IV_caterpillar_left
+    4300008: PzKpfw IV_wheel_right1
+    4300010: PzKpfw IV_wheel_right2
+    4300012: PzKpfw IV_wheel_right3
+    4300014: PzKpfw IV_wheel_right4
+    4300016: PzKpfw IV_wheel_right11
+    4300018: PzKpfw IV_wheel_right12
+    4300020: PzKpfw IV_wheel_right5
+    4300022: PzKpfw IV_wheel_right13
+    4300024: PzKpfw IV_wheel_right6
+    4300026: PzKpfw IV_wheel_right8
+    4300028: PzKpfw IV_wheel_right7
+    4300030: PzKpfw IV_wheel_right9
+    4300032: PzKpfw IV_wheel_right14
+    4300034: PzKpfw IV_wheel_right10
+    4300036: PzKpfw IV_wheel_left1
+    4300038: PzKpfw IV_wheel_left2
+    4300040: PzKpfw IV_wheel_left11
+    4300042: PzKpfw IV_wheel_left3
+    4300044: PzKpfw IV_wheel_left4
+    4300046: PzKpfw IV_wheel_left5
+    4300048: PzKpfw IV_wheel_left12
+    4300050: PzKpfw IV_wheel_left6
+    4300052: PzKpfw IV_wheel_left7
+    4300054: PzKpfw IV_wheel_left13
+    4300056: PzKpfw IV_wheel_left14
+    4300058: PzKpfw IV_wheel_left8
+    4300060: PzKpfw IV_wheel_left9
+    4300062: PzKpfw IV_wheel_left10
+    4300064: PzKpfw IV_tower
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

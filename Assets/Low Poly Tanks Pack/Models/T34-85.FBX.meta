@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5393938d50f108d4f8d27f3787b09a6b
+timeCreated: 1513413191
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u0422-34-85_base"
+    100004: "\u0422-34-85_caterpillar_left"
+    100006: "\u0422-34-85_caterpillar_right"
+    100008: "\u0422-34-85_muzzle"
+    100010: "\u0422-34-85_tower"
+    100012: "\u0422-34-85_wheel_left_1"
+    100014: "\u0422-34-85_wheel_left_2"
+    100016: "\u0422-34-85_wheel_left_3"
+    100018: "\u0422-34-85_wheel_left_4"
+    100020: "\u0422-34-85_wheel_left_5"
+    100022: "\u0422-34-85_wheel_left_6"
+    100024: "\u0422-34-85_wheel_left_7"
+    100026: "\u0422-34-85_wheel_right_1"
+    100028: "\u0422-34-85_wheel_right_2"
+    100030: "\u0422-34-85_wheel_right_3"
+    100032: "\u0422-34-85_wheel_right_4"
+    100034: "\u0422-34-85_wheel_right_5"
+    100036: "\u0422-34-85_wheel_right_6"
+    100038: "\u0422-34-85_wheel_right_7"
+    400000: //RootNode
+    400002: "\u0422-34-85_base"
+    400004: "\u0422-34-85_caterpillar_left"
+    400006: "\u0422-34-85_caterpillar_right"
+    400008: "\u0422-34-85_muzzle"
+    400010: "\u0422-34-85_tower"
+    400012: "\u0422-34-85_wheel_left_1"
+    400014: "\u0422-34-85_wheel_left_2"
+    400016: "\u0422-34-85_wheel_left_3"
+    400018: "\u0422-34-85_wheel_left_4"
+    400020: "\u0422-34-85_wheel_left_5"
+    400022: "\u0422-34-85_wheel_left_6"
+    400024: "\u0422-34-85_wheel_left_7"
+    400026: "\u0422-34-85_wheel_right_1"
+    400028: "\u0422-34-85_wheel_right_2"
+    400030: "\u0422-34-85_wheel_right_3"
+    400032: "\u0422-34-85_wheel_right_4"
+    400034: "\u0422-34-85_wheel_right_5"
+    400036: "\u0422-34-85_wheel_right_6"
+    400038: "\u0422-34-85_wheel_right_7"
+    2300000: "\u0422-34-85_base"
+    2300002: "\u0422-34-85_caterpillar_left"
+    2300004: "\u0422-34-85_caterpillar_right"
+    2300006: "\u0422-34-85_muzzle"
+    2300008: "\u0422-34-85_tower"
+    2300010: "\u0422-34-85_wheel_left_1"
+    2300012: "\u0422-34-85_wheel_left_2"
+    2300014: "\u0422-34-85_wheel_left_3"
+    2300016: "\u0422-34-85_wheel_left_4"
+    2300018: "\u0422-34-85_wheel_left_5"
+    2300020: "\u0422-34-85_wheel_left_6"
+    2300022: "\u0422-34-85_wheel_left_7"
+    2300024: "\u0422-34-85_wheel_right_1"
+    2300026: "\u0422-34-85_wheel_right_2"
+    2300028: "\u0422-34-85_wheel_right_3"
+    2300030: "\u0422-34-85_wheel_right_4"
+    2300032: "\u0422-34-85_wheel_right_5"
+    2300034: "\u0422-34-85_wheel_right_6"
+    2300036: "\u0422-34-85_wheel_right_7"
+    3300000: "\u0422-34-85_base"
+    3300002: "\u0422-34-85_caterpillar_left"
+    3300004: "\u0422-34-85_caterpillar_right"
+    3300006: "\u0422-34-85_muzzle"
+    3300008: "\u0422-34-85_tower"
+    3300010: "\u0422-34-85_wheel_left_1"
+    3300012: "\u0422-34-85_wheel_left_2"
+    3300014: "\u0422-34-85_wheel_left_3"
+    3300016: "\u0422-34-85_wheel_left_4"
+    3300018: "\u0422-34-85_wheel_left_5"
+    3300020: "\u0422-34-85_wheel_left_6"
+    3300022: "\u0422-34-85_wheel_left_7"
+    3300024: "\u0422-34-85_wheel_right_1"
+    3300026: "\u0422-34-85_wheel_right_2"
+    3300028: "\u0422-34-85_wheel_right_3"
+    3300030: "\u0422-34-85_wheel_right_4"
+    3300032: "\u0422-34-85_wheel_right_5"
+    3300034: "\u0422-34-85_wheel_right_6"
+    3300036: "\u0422-34-85_wheel_right_7"
+    4300000: "\u0422-34-85_caterpillar_right"
+    4300002: "\u0422-34-85_caterpillar_left"
+    4300004: "\u0422-34-85_base"
+    4300006: "\u0422-34-85_tower"
+    4300008: "\u0422-34-85_muzzle"
+    4300010: "\u0422-34-85_wheel_right_1"
+    4300012: "\u0422-34-85_wheel_right_2"
+    4300014: "\u0422-34-85_wheel_right_3"
+    4300016: "\u0422-34-85_wheel_right_4"
+    4300018: "\u0422-34-85_wheel_right_5"
+    4300020: "\u0422-34-85_wheel_right_6"
+    4300022: "\u0422-34-85_wheel_right_7"
+    4300024: "\u0422-34-85_wheel_left_1"
+    4300026: "\u0422-34-85_wheel_left_2"
+    4300028: "\u0422-34-85_wheel_left_3"
+    4300030: "\u0422-34-85_wheel_left_4"
+    4300032: "\u0422-34-85_wheel_left_5"
+    4300034: "\u0422-34-85_wheel_left_6"
+    4300036: "\u0422-34-85_wheel_left_7"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
